@@ -1,0 +1,14 @@
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\bin\Debug\net8.0\ScreenSoundAPP.exe
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\bin\Debug\net8.0\ScreenSoundAPP.deps.json
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\bin\Debug\net8.0\ScreenSoundAPP.runtimeconfig.json
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\bin\Debug\net8.0\ScreenSoundAPP.dll
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\bin\Debug\net8.0\ScreenSoundAPP.pdb
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ScreenSoundAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ScreenSoundAPP.AssemblyInfoInputs.cache
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ScreenSoundAPP.AssemblyInfo.cs
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ScreenSoundAPP.csproj.CoreCompileInputs.cache
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ScreenSoundAPP.dll
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\refint\ScreenSoundAPP.dll
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ScreenSoundAPP.pdb
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ScreenSoundAPP.genruntimeconfig.cache
+C:\Users\tikil\source\repos\ScreenSoundAPP\ScreenSoundAPP\obj\Debug\net8.0\ref\ScreenSoundAPP.dll
